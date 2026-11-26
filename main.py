@@ -1,9 +1,9 @@
-# Write the contest entry as a single UTF-8 line.
+# Write one UTF-8 roast and print its character count.
 import os
 from pathlib import Path
 
 
-TEXT = "My smart fridge texts me about the door I'm holding open. This could've been a beep."
+TEXT = "My smart fridge's ice maker is stuck on 'Installing water.'"
 
 
 def main():
